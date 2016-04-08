@@ -8,3 +8,5 @@
 
 ## To add alias
 `$ echo 'alias server="rails server -b $IP -p $PORT"' >> ~/.bashrc`
+
+## add SSH key
