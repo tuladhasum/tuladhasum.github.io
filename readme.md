@@ -15,3 +15,7 @@ Add bootstrap to jekyll http://stackoverflow.com/questions/28733425/adding-boots
 
 ## Jekyll variables
 https://jekyllrb.com/docs/variables/
+
+## Configure sublime to alias
+`alias sublime="open -a /Applications/Sublime\ Text.app"`
+More details at http://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal
