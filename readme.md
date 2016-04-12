@@ -15,3 +15,16 @@ Add bootstrap to jekyll http://stackoverflow.com/questions/28733425/adding-boots
 
 ## Jekyll variables
 https://jekyllrb.com/docs/variables/
+
+## Vim Basic commands
+
+### To start vi
+` vi filename `
+
+### To Exit
+To quit writing to the file - `:x`
+
+To quite without to the file = `:q!`
+
+## Vi Links
+https://www.cs.colostate.edu/helpdocs/vi.html
