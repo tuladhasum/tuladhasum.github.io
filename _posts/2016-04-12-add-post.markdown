@@ -4,6 +4,4 @@ title:  "Add Post Using Github"
 date:   2016-04-11 15:11:13 +0000
 categories: jekyll guide
 ---
-
-## To add post using github
-To add post simply add a .markdown post under _posts
+To add post simply add a .markdown post under _posts. This technique is very convinient as you can easily add post from github.com 
