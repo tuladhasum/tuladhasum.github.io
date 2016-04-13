@@ -8,11 +8,12 @@ $icon-font-path: "/lib/bootstrap-sass/assets/fonts/bootstrap/";
 
 /* custom variable */
 
-@import "blog.css";
 
-@import "pygment.css";
 
 /* any style customization must be before the bootstrap import */
 @import "bootstrap";
 
 
+@import "blog.css";
+
+@import "pygment.css";
