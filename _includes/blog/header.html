@@ -1,9 +1,24 @@
- <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-          <a class="blog-nav-item" href="/">Home</a>
-          <a class="blog-nav-item" href="readme.html">Readme</a>
-          <a class="blog-nav-item" href="about.html">About</a>
-        </nav>
-      </div>
-    </div>
+ <!--<div class="blog-masthead">-->
+ <!--     <div class="container">-->
+ <!--       <nav class="blog-nav">-->
+ <!--         <a class="blog-nav-item" href="/">Home</a>-->
+ <!--         <a class="blog-nav-item" href="readme.html">Readme</a>-->
+ <!--         <a class="blog-nav-item" href="about.html">About</a>-->
+ <!--       </nav>-->
+ <!--     </div>-->
+ <!--   </div>-->
+
+
+<div class="blog-masthead">
+  <div class="container">
+    <nav class="blog-nav">
+      {% for link in site.sub-navigation %}
+          {% assign current = nil %}
+          {% if page.url contains link.url %}
+              {% assign current = 'active' %}
+          {% endif %}
+          <a class="blog-nav-item {{ current }}" href="{{ link.url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</div>

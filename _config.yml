@@ -22,6 +22,18 @@ future: true
 markdown: kramdown
 highlighter: rouge
 
+sub-navigation:
+- title: Home
+  url: 'index.html'
+- title: Readme
+  url: 'readme.html'
+- title: About
+  url: 'about.html'
+
+#permalink: "/blog/:categories/:title.html"
+#paginate_path: "/blog/page:num"
+#paginate: 2
+
 gems:
   - jekyll-sitemap
 
