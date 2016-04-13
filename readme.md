@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readme
-permalink: /readme/
+permalink: /readme.html
 ---
 
 ## To run the server locally on cloud9
