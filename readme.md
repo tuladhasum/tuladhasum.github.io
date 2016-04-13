@@ -38,3 +38,9 @@ To quite without to the file = `:q!`
 * [Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Variables](https://jekyllrb.com/docs/variables/)
 * [Vim Basic](https://www.cs.colostate.edu/helpdocs/vi.html)
+
+
+## Create plugin
+* [] Open Checked
+* [x] Closed Checked
+* [Source](https://tuananh.org/2014/08/04/writing-your-first-jekyll-plugin/)

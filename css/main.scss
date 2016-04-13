@@ -18,3 +18,11 @@ $icon-font-path: "/lib/bootstrap-sass/assets/fonts/bootstrap/";
 
 @import "pygment.css";
 */
+
+.ballot_box_with_check:before {
+  content: "\2611\ ";
+}
+
+.ballot_box:before {
+  content: "\2610\ ";
+}
