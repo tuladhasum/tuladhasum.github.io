@@ -2,9 +2,8 @@
 layout: post
 title:  "Markdown Markup"
 date:   2016-04-13 15:11:13 +0000
-categories: jekyll guide markdown
+categories: jekyll guide
 ---
-
 For header
 
 # H1 Header
