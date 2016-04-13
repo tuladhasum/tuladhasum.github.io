@@ -36,5 +36,3 @@ This is ordered List
 > This is blockquote
 
 ***
-
-
