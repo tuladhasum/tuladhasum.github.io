@@ -38,3 +38,6 @@ https://www.cs.colostate.edu/helpdocs/vi.html
 ## Configure sublime to alias
 `alias sublime="open -a /Applications/Sublime\ Text.app"`
 More details at http://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal
+
+### Resources
+[Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap)
