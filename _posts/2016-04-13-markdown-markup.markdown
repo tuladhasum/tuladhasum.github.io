@@ -37,3 +37,8 @@ This is ordered List
 > This is blockquote
 
 ***
+
+### Markdown Tables
+|Head 1|Head 2|Head 3|Head 4|Head 5|
+|---|---|---|---|---|
+|one|two|three|four|five|
