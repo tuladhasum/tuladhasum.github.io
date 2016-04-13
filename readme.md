@@ -1,3 +1,9 @@
+---
+layout: page
+title: Readme
+permalink: /readme/
+---
+
 ## To run the server locally on cloud9
 
 ` jekyll serve --host $IP --port $PORT --baseurl '' `
