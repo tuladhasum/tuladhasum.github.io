@@ -24,7 +24,7 @@ highlighter: rouge
 
 sub-navigation:
 - title: Home
-  url: 'index.html'
+  url: '/'
 - title: Readme
   url: 'readme.html'
 - title: About
