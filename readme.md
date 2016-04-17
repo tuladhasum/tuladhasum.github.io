@@ -39,6 +39,7 @@ To quite without to the file = `:q!`
 * [Jekyll Variables](https://jekyllrb.com/docs/variables/)
 * [Vim Basic](https://www.cs.colostate.edu/helpdocs/vi.html)
 * [Mac Alias](http://www.techradar.com/us/how-to/computing/apple/terminal-101-creating-aliases-for-commands-1305638)
+* [Liquid for Desiners](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 
 
 ## Create plugin
