@@ -19,14 +19,18 @@ permalink: /readme.html
 [Add bootstrap to jekyll](http://stackoverflow.com/questions/28733425/adding-bootstrap-to-jekyll)
 
 
-### To start vi
-` vi filename `
-
-
 ### To Exit
 To quit writing to the file - `:x`
 
 To quite without to the file = `:q!`
+
+To close - `:q`
+
+To Write/saves - `:w`
+
+### To start vi
+` vi filename `
+
 
 # git
 
