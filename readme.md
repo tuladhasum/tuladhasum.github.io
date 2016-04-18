@@ -28,6 +28,13 @@ To quit writing to the file - `:x`
 
 To quite without to the file = `:q!`
 
+# git
+
+## git stash
+`git stash` - to stash the current working area
+`git stash list` - to get the git stash list
+`git stash apply` - to apply to stashed changes
+`git stash drop` - to remove an item from the stash list
 
 ### Configure sublime to alias
 `alias sublime="open -a /Applications/Sublime\ Text.app"`
