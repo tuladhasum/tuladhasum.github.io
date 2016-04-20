@@ -32,9 +32,9 @@ sub-navigation:
 - title: Home
   url: '/'
 - title: Readme
-  url: 'readme.html'
+  url: '/readme.html'
 - title: About
-  url: 'about.html'
+  url: '/about.html'
 
 #permalink: "/blog/:categories/:title.html"
 #paginate_path: "/blog/page:num"
