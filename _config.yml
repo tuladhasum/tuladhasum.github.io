@@ -35,6 +35,8 @@ sub-navigation:
   url: '/readme.html'
 - title: About
   url: '/about.html'
+- title: Pages Cloud 9
+  url: '/pages/cloud9/'
 
 #permalink: "/blog/:categories/:title.html"
 #paginate_path: "/blog/page:num"
