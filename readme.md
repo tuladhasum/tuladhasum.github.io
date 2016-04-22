@@ -52,6 +52,7 @@ To Write/saves - `:w`
 * [Mac Alias](http://www.techradar.com/us/how-to/computing/apple/terminal-101-creating-aliases-for-commands-1305638)
 * [Liquid for Desiners](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Building a Jekyll Site + Firebase](https://css-tricks.com/building-a-jekyll-site-part-1-of-3/)
+* [Jekyll Cheat Sheet](http://cheat.jekyll.tips/)
 
 ## Create plugin
 * [Source](https://tuananh.org/2014/08/04/writing-your-first-jekyll-plugin/)
