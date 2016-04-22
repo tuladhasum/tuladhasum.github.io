@@ -13,8 +13,8 @@
   <div class="container">
     <nav class="blog-nav">
       {% for link in site.sub-navigation %}
-          {% assign current = nil %}
-          {% if page.url contains link.url %}
+          {% assign current = '/' %}
+          {% if page.url == link.url %}
               {% assign current = 'active' %}
           {% endif %}
           <a class="blog-nav-item {{ current }}" href="{{ link.url }}">{{ link.title }}</a>
