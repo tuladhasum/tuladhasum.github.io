@@ -53,6 +53,7 @@ To Write/saves - `:w`
 * [Liquid for Desiners](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Building a Jekyll Site + Firebase](https://css-tricks.com/building-a-jekyll-site-part-1-of-3/)
 * [Jekyll Cheat Sheet](http://cheat.jekyll.tips/)
+* [Jekyll Themes](http://jekyllthemes.io/) [2](https://mademistakes.com/work/jekyll-themes/)
 
 ## Create plugin
 * [Source](https://tuananh.org/2014/08/04/writing-your-first-jekyll-plugin/)
