@@ -56,6 +56,7 @@ To Write/saves - `:w`
 * [Jekyll Themes](http://jekyllthemes.io/) [2](https://mademistakes.com/work/jekyll-themes/)
 * [Jekyll Services](http://jekyll.tips/services/)
 * [Jekyll Templates](http://jekyll.tips/templates/)
+* [Git merge](http://oli.jp/2011/github-pages-workflow/)
 
 ## Create plugin
 * [Source](https://tuananh.org/2014/08/04/writing-your-first-jekyll-plugin/)
