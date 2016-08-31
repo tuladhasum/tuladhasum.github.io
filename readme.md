@@ -6,9 +6,18 @@ permalink: /readme.html
 ### To run the server locally on cloud9
 ` jekyll serve --host $IP --port $PORT --baseurl '' `
 
+## ps command
+
+`cmd &` - Run in background
+
+`ps aux` BSD style - The options in bsd style syntax are not preceded with a dash.
+
+`ps -ef`
+
+`kill pid` - Kill a process.
 
 ### To build
-` jekyll build `
+` jekyll build ` UNIX/LINUX style - The options in linux style syntax are preceded by a dash as usual.
 
 
 ### To add alias
