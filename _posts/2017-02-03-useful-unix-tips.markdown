@@ -7,7 +7,7 @@ categories: unix macos
 
 # Rakefile 
 Using rakefile to deploy website
-```Ruby
+{% highlight ruby %}
 desc 'deploy files to website via rsync'
 task :deploy do
   puts 'Getting ready to deploy'
@@ -17,4 +17,5 @@ task :deploy do
   sh "rsync -rtzh --delete _sites/ #{user}@#{server}:#{path}"
   puts 'Transfer complete'
 end
-```
+{% endhighlight %}
+
