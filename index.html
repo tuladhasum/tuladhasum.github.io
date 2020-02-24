@@ -1,11 +1,5 @@
 ---
-layout: blog
+layout: default
 ---
 
-{% for post in site.posts %}
-<div class="blog-post">
-  <h2 class="blog-post-title">{{ post.title }}</h2>
-  <p class="blog-post-meta">{{ post.date | date: "%b %-d, %Y" }} <a href="#">{% if post.author %}{{ post.author }}{% endif %}</a></p>
-  {{ post.content }}
-</div><!-- /.blog-post -->
-{% endfor %}
+..
